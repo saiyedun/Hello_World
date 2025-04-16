@@ -1,6 +1,6 @@
 // Filename: my_first_code.c
 // Description: A simple C program to demonstrate basic syntax, variables, and user input/output
-// Author: [soykot]
+// Author: [Soykot]
 // Date: [16 April, 2025]
 
 #include <stdio.h>  // Standard Input Output library
